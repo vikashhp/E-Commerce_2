@@ -1,0 +1,11 @@
+.about{
+    text-align: center;
+   
+
+    background-color: rgb(151, 118, 252);
+    width: 100%;
+    border:1px solod red;
+    margin-top:2%;
+    height: 250px;
+    color:white;  
+}
